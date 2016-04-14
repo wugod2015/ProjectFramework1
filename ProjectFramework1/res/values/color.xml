@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <color name="canlendar_text_color">#d3d1d1</color>
+    <color name="input_title">#666666</color>
+    <color name="input_content">#333333</color>
+    <color name="line_padding">#eeeeee</color>
+    <color name="line_border">#e6e6e6</color>
+    <!--  -->
+    <color name="common_bottom_bar_normal_bg">#2d2f31</color>
+    <color name="common_bottom_bar_selected_bg">#161718</color>
+    <color name="common_botton_bar_blue">#2ea7e0</color>
+    <color name="bottom_bar_normal_bg">#ffffffff</color>
+    <color name="nav_bg">#ffffffff</color>
+    <color name="nav_title">#ff4fc1e9</color>
+    <color name="common_bg">#ffffffff</color>
+    <color name="common_bg_gray">#fff0f0f0</color>
+    <color name="common_bg_gray_tran">#33f0f0f0</color>
+    <color name="item_pressed">#f8f8f8</color>
+    <color name="score_normal">#882ca4ce</color>
+    <color name="score_pressed">#2ca4ce</color>
+    <!--  -->
+    <color name="white">#FFFFFFFF</color>
+    <!-- 白色 -->
+    <color name="papayawhip">#FFFFEFD5</color>
+    <!-- 番木色 -->
+    <color name="black">#FF000000</color>
+    <!-- 黑色 -->
+    <color name="lightgray">#FFF7F5F5</color>
+
+    <!-- 灰色 1 -->
+    <color name="wggray1">#FFEFEFEF</color>
+    <!-- 灰色 2 -->
+    <color name="wggray2">#FF8f8f8f</color>
+    <!-- 浅灰色 3 -->
+    <color name="wggray3">#FFefefef</color>
+    <!-- 浅灰色 -->
+    <color name="wggray">#FF666666</color>
+    <!-- 暗瓦灰色 -->
+    <color name="darkslategray">#FF2F4F4F</color>
+    <!-- 灰色 -->
+    <color name="darkslategrey">#FF2F4F4F</color>
+    <!-- 暗瓦灰色 -->
+    <color name="seagreen">#FF2E8B57</color>
+    <!-- 海绿色 -->
+    <color name="forestgreen">#FF228B22</color>
+    <!-- 森林绿 -->
+    <color name="lightseagreen">#FF20B2AA</color>
+    <!-- 亮海蓝色 -->
+    <color name="dodgerblue">#FF1E90FF</color>
+    <!-- 闪兰色 -->
+    <color name="midnightblue">#FF191970</color>
+    <!-- 中灰兰色 -->
+    <color name="aqua">#FF00FFFF</color>
+    <!-- 浅绿色 -->
+    <color name="cyan">#FF00FFFF</color>
+    <!-- 青色 -->
+    <color name="springgreen">#FF00FF7F</color>
+    <!-- 春绿色 -->
+    <color name="lime">#FF00FF00</color>
+    <!-- 酸橙色 -->
+    <color name="mediumspringgreen">#FF00FA9A</color>
+    <!-- 中春绿色 -->
+    <color name="darkturquoise">#FF00CED1</color>
+    <!-- 暗宝石绿 -->
+    <color name="deepskyblue">#FF00BFFF</color>
+    <!-- 深天蓝色 -->
+    <color name="darkcyan">#FF008B8B</color>
+    <!-- 暗青色 -->
+    <color name="teal">#FF008080</color>
+    <!-- 水鸭色 -->
+    <color name="green">#FF008000</color>
+    <!-- 绿色 -->
+    <color name="darkgreen">#FF006400</color>
+    <!-- 暗绿色 -->
+    <color name="blue">#FF0000FF</color>
+    <!-- 蓝色 -->
+    <color name="mediumblue">#FF0000CD</color>
+    <!-- 中兰色 -->
+    <color name="darkblue">#FF00008B</color>
+    <!-- 暗蓝色 -->
+    <color name="navy">#FF000080</color>
+    <!-- 海军色 -->
+    <color name="gainsboro">#FFDCDCDC</color>
+    <!-- 淡灰色 -->
+    <color name="red">#FFFF0000</color>
+    <!-- 红色 -->
+    <color name="t_1">#BB9933CC</color>
+    <!-- 红色 -->
+    <color name="t_2">#BBFFCC33</color>
+    <!-- 红色 -->
+    <color name="t_3">#BB66CCCC</color>
+    <!-- 红色 -->
+    <color name="transparent">#00FFFFFF</color>
+    <!-- 透明 -->
+
+</resources>
